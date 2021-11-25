@@ -1,0 +1,47 @@
+.vac_res {
+    max-width: 350px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 32px;
+	margin-top: 52px;
+
+}
+
+.m24 {
+	margin-left: 24px;
+
+}
+
+.trans {
+	display: flex;
+	align-items: center;
+	margin-right: 24px;
+}
+
+.status-container {
+	width: 100%;
+	border-radius: 16px;
+	text-align: center;
+	position: relative;
+	margin-top: 28px;
+}
+
+.status-container .normal-image {
+    display: block;
+}
+
+.before-button {
+	text-align: center;
+}
+
+.button {
+	text-align: center;
+}
